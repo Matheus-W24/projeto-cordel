@@ -1,0 +1,39 @@
+@charset "utf=8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+main {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif
+}
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 110px;
+    padding-top: 20px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    margin-bottom: 20px;
+}
+section.normal {
+    
+}
+section.image {
+
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
